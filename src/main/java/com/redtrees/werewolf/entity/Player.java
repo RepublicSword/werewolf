@@ -7,5 +7,6 @@ public class Player {
     private String name;
 
     private String avatarUrl;
-    Boolean isMaster;
+
+    private boolean isMaster;
 }
